@@ -1,0 +1,8 @@
+requests
+opencv-python
+transformers
+matplotlib
+networkx
+plotly
+Pillow
+numpy
