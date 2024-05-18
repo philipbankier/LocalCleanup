@@ -1,0 +1,19 @@
+{
+    "text": {
+        "happy": "Positive Sentiments",
+        "sad": "Negative Sentiments",
+        "finance": "Financial Documents",
+        "contract": "Legal Documents"
+    },
+    "image": {
+        "dog": "Animals",
+        "cat": "Animals",
+        "beach": "Nature Scenes",
+        "city": "Urban Landscapes"
+    },
+    "video": {
+        "tutorial": "Educational",
+        "review": "Product Reviews",
+        "nature": "Nature Documentaries"
+    }
+}
